@@ -8,3 +8,8 @@
 - Connecting Wires
 - External Power Supply
 
+## The figure given below shows The Circuit Diagram.
+
+## Now we will see the basic explanation of the proragam.
+
+## It is must that we must include a library called '#include <Servo.h>' to use the motors.
