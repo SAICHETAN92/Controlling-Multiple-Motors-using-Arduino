@@ -10,6 +10,6 @@
 
 ## The figure given below shows The Circuit Diagram.
 
-## Now we will see the basic explanation of the proragam.
+## Now we will see the basic explanation of the Arduino Proragam.
 
-### It is must that we must include a library called ' #include <Servo.h> ' to use the motors.
+### It is must that we define a buit-in library called ' #include <Servo.h> ' to use the motors.
