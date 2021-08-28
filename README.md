@@ -9,7 +9,7 @@
 - External Power Supply
 
 ## The figure given below shows The Circuit Diagram.
-![alt text](file:///C:/Users/Sai%20Chetan%20Poluri/Downloads/Circuit-diagram-for-Controlling-Multiple-Servo-Motors-with-Arduino.png)
+![alt text](https://drive.google.com/file/d/1zHiH6pxP0O7Sv9b9lhyewKyMX0A8pIu2/view?usp=sharing)
 ## Now we will see the basic explanation of the Arduino Proragam.
 ### It is must that we define a buit-in library called `#include <Servo.h>` to use the motors. The next step is to installize the all the four motors as mot1, mot2, mot3, mot4. 
 ```
@@ -40,3 +40,4 @@ void setup() {
 
 ```
 ### This is how the given arduino code can be used in the applications that need two or motors. The next level of this application will be synchronization of the motors as per the requirements.
+  
