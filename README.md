@@ -30,7 +30,7 @@ void setup() {
 }
 
 ```
-###The next step is to use the void loop() function. The basic function of this project is to rotate all the motors from 0 to 180 degree and then 180 to 0 degree. The delay is also used in the code given below and it is used to increase or decrease the speed of the motor as it effect the increasing or decreasing speed of variable ‘i’.
+### The next step is to use the void loop() function. The basic function of this project is to rotate all the motors from 0 to 180 degree and then 180 to 0 degree. The delay is also used in the code given below and it is used to increase or decrease the speed of the motor as it effect the increasing or decreasing speed of variable ‘i’.
 ```
 void loop() {
   for (int i = 0; i < 180; i++) {
